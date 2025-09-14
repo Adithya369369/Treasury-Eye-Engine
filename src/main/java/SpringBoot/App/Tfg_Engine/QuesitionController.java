@@ -5,4 +5,5 @@ public class QuesitionController {
     public List<Quesiton> findAllQuestions(Question id){
         return service.findAllQuestions(id);
     }
+    public Question
 }
